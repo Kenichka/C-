@@ -1,0 +1,45 @@
+F:\C#\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\bin\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.exe
+F:\C#\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\bin\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.deps.json
+F:\C#\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\bin\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.runtimeconfig.json
+F:\C#\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\bin\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.dll
+F:\C#\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\bin\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.pdb
+F:\C#\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.csproj.AssemblyReference.cache
+F:\C#\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.AssemblyInfoInputs.cache
+F:\C#\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.AssemblyInfo.cs
+F:\C#\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.csproj.CoreCompileInputs.cache
+F:\C#\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.dll
+F:\C#\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\refint\VtitBbid.IPS20.Belousov.Note.dll
+F:\C#\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.pdb
+F:\C#\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.genruntimeconfig.cache
+F:\C#\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\ref\VtitBbid.IPS20.Belousov.Note.dll
+C:\Users\student\Documents\ISP-20\Belousov\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\bin\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.exe
+C:\Users\student\Documents\ISP-20\Belousov\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\bin\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.deps.json
+C:\Users\student\Documents\ISP-20\Belousov\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\bin\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.runtimeconfig.json
+C:\Users\student\Documents\ISP-20\Belousov\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\bin\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.dll
+C:\Users\student\Documents\ISP-20\Belousov\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\bin\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.pdb
+C:\Users\student\Documents\ISP-20\Belousov\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.csproj.AssemblyReference.cache
+C:\Users\student\Documents\ISP-20\Belousov\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Documents\ISP-20\Belousov\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.AssemblyInfoInputs.cache
+C:\Users\student\Documents\ISP-20\Belousov\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.AssemblyInfo.cs
+C:\Users\student\Documents\ISP-20\Belousov\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\ISP-20\Belousov\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.dll
+C:\Users\student\Documents\ISP-20\Belousov\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\refint\VtitBbid.IPS20.Belousov.Note.dll
+C:\Users\student\Documents\ISP-20\Belousov\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.pdb
+C:\Users\student\Documents\ISP-20\Belousov\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.genruntimeconfig.cache
+C:\Users\student\Documents\ISP-20\Belousov\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\ref\VtitBbid.IPS20.Belousov.Note.dll
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\bin\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.exe
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\bin\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.deps.json
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\bin\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.runtimeconfig.json
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\bin\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.dll
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\bin\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.pdb
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.csproj.AssemblyReference.cache
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.AssemblyInfoInputs.cache
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.AssemblyInfo.cs
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.csproj.CoreCompileInputs.cache
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.dll
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\refint\VtitBbid.IPS20.Belousov.Note.dll
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.pdb
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\VtitBbid.IPS20.Belousov.Note.genruntimeconfig.cache
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\VtitBbid.IPS20.Belousov.Note\VtitBbid.IPS20.Belousov.Note\obj\Debug\net6.0\ref\VtitBbid.IPS20.Belousov.Note.dll

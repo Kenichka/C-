@@ -1,0 +1,30 @@
+C:\Users\student\Documents\ISP-20\Belousov\Vtitbid.ISP20.Belousov.Route\bin\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.exe
+C:\Users\student\Documents\ISP-20\Belousov\Vtitbid.ISP20.Belousov.Route\bin\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.deps.json
+C:\Users\student\Documents\ISP-20\Belousov\Vtitbid.ISP20.Belousov.Route\bin\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.runtimeconfig.json
+C:\Users\student\Documents\ISP-20\Belousov\Vtitbid.ISP20.Belousov.Route\bin\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.dll
+C:\Users\student\Documents\ISP-20\Belousov\Vtitbid.ISP20.Belousov.Route\bin\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.pdb
+C:\Users\student\Documents\ISP-20\Belousov\Vtitbid.ISP20.Belousov.Route\obj\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.csproj.AssemblyReference.cache
+C:\Users\student\Documents\ISP-20\Belousov\Vtitbid.ISP20.Belousov.Route\obj\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Documents\ISP-20\Belousov\Vtitbid.ISP20.Belousov.Route\obj\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.AssemblyInfoInputs.cache
+C:\Users\student\Documents\ISP-20\Belousov\Vtitbid.ISP20.Belousov.Route\obj\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.AssemblyInfo.cs
+C:\Users\student\Documents\ISP-20\Belousov\Vtitbid.ISP20.Belousov.Route\obj\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\ISP-20\Belousov\Vtitbid.ISP20.Belousov.Route\obj\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.dll
+C:\Users\student\Documents\ISP-20\Belousov\Vtitbid.ISP20.Belousov.Route\obj\Debug\net6.0\refint\Vtitbid.ISP20.Belousov.Route.dll
+C:\Users\student\Documents\ISP-20\Belousov\Vtitbid.ISP20.Belousov.Route\obj\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.pdb
+C:\Users\student\Documents\ISP-20\Belousov\Vtitbid.ISP20.Belousov.Route\obj\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.genruntimeconfig.cache
+C:\Users\student\Documents\ISP-20\Belousov\Vtitbid.ISP20.Belousov.Route\obj\Debug\net6.0\ref\Vtitbid.ISP20.Belousov.Route.dll
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\Vtitbid.ISP20.Belousov.Route\bin\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.exe
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\Vtitbid.ISP20.Belousov.Route\bin\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.deps.json
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\Vtitbid.ISP20.Belousov.Route\bin\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.runtimeconfig.json
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\Vtitbid.ISP20.Belousov.Route\bin\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.dll
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\Vtitbid.ISP20.Belousov.Route\bin\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.pdb
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\Vtitbid.ISP20.Belousov.Route\obj\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.csproj.AssemblyReference.cache
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\Vtitbid.ISP20.Belousov.Route\obj\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\Vtitbid.ISP20.Belousov.Route\obj\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.AssemblyInfoInputs.cache
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\Vtitbid.ISP20.Belousov.Route\obj\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.AssemblyInfo.cs
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\Vtitbid.ISP20.Belousov.Route\obj\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.csproj.CoreCompileInputs.cache
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\Vtitbid.ISP20.Belousov.Route\obj\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.dll
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\Vtitbid.ISP20.Belousov.Route\obj\Debug\net6.0\refint\Vtitbid.ISP20.Belousov.Route.dll
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\Vtitbid.ISP20.Belousov.Route\obj\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.pdb
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\Vtitbid.ISP20.Belousov.Route\obj\Debug\net6.0\Vtitbid.ISP20.Belousov.Route.genruntimeconfig.cache
+C:\Users\belou\OneDrive\Рабочий стол\123132321321321\Vtitbid.ISP20.Belousov.Route\obj\Debug\net6.0\ref\Vtitbid.ISP20.Belousov.Route.dll
