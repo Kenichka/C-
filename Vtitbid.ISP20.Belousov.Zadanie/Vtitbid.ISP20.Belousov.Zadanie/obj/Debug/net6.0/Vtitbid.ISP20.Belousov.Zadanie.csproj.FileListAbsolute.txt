@@ -1,0 +1,15 @@
+C:\Users\belou\source\repos\Vtitbid.ISP20.Belousov.Zadanie\Vtitbid.ISP20.Belousov.Zadanie\bin\Debug\net6.0\Vtitbid.ISP20.Belousov.Zadanie.exe
+C:\Users\belou\source\repos\Vtitbid.ISP20.Belousov.Zadanie\Vtitbid.ISP20.Belousov.Zadanie\bin\Debug\net6.0\Vtitbid.ISP20.Belousov.Zadanie.deps.json
+C:\Users\belou\source\repos\Vtitbid.ISP20.Belousov.Zadanie\Vtitbid.ISP20.Belousov.Zadanie\bin\Debug\net6.0\Vtitbid.ISP20.Belousov.Zadanie.runtimeconfig.json
+C:\Users\belou\source\repos\Vtitbid.ISP20.Belousov.Zadanie\Vtitbid.ISP20.Belousov.Zadanie\bin\Debug\net6.0\Vtitbid.ISP20.Belousov.Zadanie.dll
+C:\Users\belou\source\repos\Vtitbid.ISP20.Belousov.Zadanie\Vtitbid.ISP20.Belousov.Zadanie\bin\Debug\net6.0\Vtitbid.ISP20.Belousov.Zadanie.pdb
+C:\Users\belou\source\repos\Vtitbid.ISP20.Belousov.Zadanie\Vtitbid.ISP20.Belousov.Zadanie\obj\Debug\net6.0\Vtitbid.ISP20.Belousov.Zadanie.csproj.AssemblyReference.cache
+C:\Users\belou\source\repos\Vtitbid.ISP20.Belousov.Zadanie\Vtitbid.ISP20.Belousov.Zadanie\obj\Debug\net6.0\Vtitbid.ISP20.Belousov.Zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belou\source\repos\Vtitbid.ISP20.Belousov.Zadanie\Vtitbid.ISP20.Belousov.Zadanie\obj\Debug\net6.0\Vtitbid.ISP20.Belousov.Zadanie.AssemblyInfoInputs.cache
+C:\Users\belou\source\repos\Vtitbid.ISP20.Belousov.Zadanie\Vtitbid.ISP20.Belousov.Zadanie\obj\Debug\net6.0\Vtitbid.ISP20.Belousov.Zadanie.AssemblyInfo.cs
+C:\Users\belou\source\repos\Vtitbid.ISP20.Belousov.Zadanie\Vtitbid.ISP20.Belousov.Zadanie\obj\Debug\net6.0\Vtitbid.ISP20.Belousov.Zadanie.csproj.CoreCompileInputs.cache
+C:\Users\belou\source\repos\Vtitbid.ISP20.Belousov.Zadanie\Vtitbid.ISP20.Belousov.Zadanie\obj\Debug\net6.0\Vtitbid.ISP20.Belousov.Zadanie.dll
+C:\Users\belou\source\repos\Vtitbid.ISP20.Belousov.Zadanie\Vtitbid.ISP20.Belousov.Zadanie\obj\Debug\net6.0\refint\Vtitbid.ISP20.Belousov.Zadanie.dll
+C:\Users\belou\source\repos\Vtitbid.ISP20.Belousov.Zadanie\Vtitbid.ISP20.Belousov.Zadanie\obj\Debug\net6.0\Vtitbid.ISP20.Belousov.Zadanie.pdb
+C:\Users\belou\source\repos\Vtitbid.ISP20.Belousov.Zadanie\Vtitbid.ISP20.Belousov.Zadanie\obj\Debug\net6.0\Vtitbid.ISP20.Belousov.Zadanie.genruntimeconfig.cache
+C:\Users\belou\source\repos\Vtitbid.ISP20.Belousov.Zadanie\Vtitbid.ISP20.Belousov.Zadanie\obj\Debug\net6.0\ref\Vtitbid.ISP20.Belousov.Zadanie.dll
